@@ -1,0 +1,10 @@
+# Secrets and personal data — never commit
+.env
+finance.db
+*.db
+bot.log*
+
+# Python
+venv/
+__pycache__/
+*.pyc
