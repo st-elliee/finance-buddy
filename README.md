@@ -13,6 +13,18 @@ Bot:   Καταχώρησα:
        ⚠️ Έφτασες στο 85% του budget για καφές: 25,50€ από 30,00€ (10/2026)
 ```
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d65c00db-a55b-40ea-b4e9-050e1af39fac" width="420" alt="Logging expenses with budget alerts">
+  <img src="https://github.com/user-attachments/assets/cfbbd3df-4627-45d5-9652-e7045ca1fdd9" width="420" alt="Asking about spending in natural language">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42fd2158-a2b1-4e8d-986f-ece92ace835f" width="420" alt="Reading a receipt photo">
+  <img src="https://github.com/user-attachments/assets/f5f8fe92-3bbc-4251-88c1-77c3f82912a4" width="420" alt="Weekly report">
+</p>
+
+
 ## Features
 
 - **Natural-language logging**: "12€ σουβλάκια", "χθες 15 σινεμά". The agent picks the category and date, and splits messages with several expenses.
